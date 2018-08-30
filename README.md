@@ -1,7 +1,8 @@
 # devops-aula2
-Trabalho primeira AC
+First AC
 johnny depp 
 Tom Hiddleston
 tom cruise
 #Teste
 #Bussunda, CP
+#Novo item
