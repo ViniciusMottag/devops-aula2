@@ -8,6 +8,6 @@ James Stewart
 Hugh Laurie
 Stellan John Skarsgård
 #Tadeu
-Jackie Chan
-Tony Jaa
+Jackie Chan,
+Tony Jaa,
 Sylvester Stallone
